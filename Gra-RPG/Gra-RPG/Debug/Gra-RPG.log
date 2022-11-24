@@ -1,0 +1,5 @@
+﻿  Gra-RPG.cpp
+C:\Users\tecza\OneDrive\Pulpit\Programowanie\Cpp\Projects\Gra-RPG\Gra-RPG\Gra-RPG.cpp(1599,11): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\tecza\OneDrive\Pulpit\Programowanie\Cpp\Projects\Gra-RPG\Gra-RPG\Gra-RPG.cpp(1602,11): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\tecza\OneDrive\Pulpit\Programowanie\Cpp\Projects\Gra-RPG\Gra-RPG\Gra-RPG.cpp(1605,11): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+  Gra-RPG.vcxproj -> C:\Users\tecza\OneDrive\Pulpit\Programowanie\Cpp\Projects\Gra-RPG\Debug\Gra-RPG.exe
