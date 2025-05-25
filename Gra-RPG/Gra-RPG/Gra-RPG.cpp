@@ -4,7 +4,6 @@
 #include<cstdlib>
 using namespace std;
 
-// zmienne ( ważne nie ruszać bo zepsujesz !!!! i nie będzie działać :C )
 bool isGame = true, isArmor = false;
 string name, place = "Miasto";
 string dane[4];
@@ -20,15 +19,6 @@ int zboze1 = 0, zboze2 = 0, zboze3 = 0;
 int poziom1 = 3000, poziom2 = 5000, poziom3 = 7500, poziom4 = 10000,  poziom5 = 125000;
 int konie1 = 0, konie2 = 0;
 string mlyn1[7], mlyn2[7], stodola[10];
-
-//
-//
-// Spokojnie ja też nie rozumiem tego kodu ;)
-// Ps. Bardzo się starałem :D
-// ps.2 zrobiłbym to w paru plikach tylko że tak jak pan widział i ja na jednych 
-// zajęciach wyskakiwał błąd z wartoscią zwróconą 1 więć postanowiłem napisać wszystko w jeden skrypt i pododawać komentarze
-// 
-//
 
 //
 // funkcje tworzenia postaci
